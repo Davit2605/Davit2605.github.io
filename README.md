@@ -6,3 +6,4 @@
 | 2   | Background-slider   | **[Live Demo](https://davit2605.github.io/Background-slider/)** |
 | 3   | Expanding-cards     | **[Live Demo](https://davit2605.github.io/Expanding-cards/)**   |
 | 4   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
+|5|Age-calculator|**[Live Demo](https://davit2605.github.io/Age-calculator/)**|
