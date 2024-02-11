@@ -9,3 +9,4 @@
 |5|Loading-bar|**[Live Demo](https://davit2605.github.io/Loading-bar/)**|
 | 6   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
 | 7   | Event-keycodes     | **[Live Demo](https://davit2605.github.io/Event-keycodes/)**   |
+| 8   | Incrementing-counter     | **[Live Demo](https://davit2605.github.io/Incrementing-counter/)**   |
