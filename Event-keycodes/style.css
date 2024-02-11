@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    text-align: center;
+    overflow: none;
+    background-color: dodgerblue;
+    padding: 10px;
+  }
+
+  .insert {
+    position: relative;
+    display: inline-flex;
+  }
+
+  .key {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    background-color: hotpink;
+    padding: 10px;
+    height: 60px;
+    min-width: 120px;
+    font-size: 22px;
+    font-weight: 600;
+    border-radius: 8px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .insert small {
+    position: absolute;
+    top: -15px;
+    opacity: 0.7;
+    font-size: 15px;
+  }
