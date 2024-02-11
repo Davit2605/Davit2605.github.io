@@ -1,5 +1,7 @@
 # Davit2605.github.io
 
+More advanced projects coming... ⬇️
+
 | 🖥️ | Javascript Projects | Live Demo                                                       |
 |:---:|---------------------|:---------------------------------------------------------------:|
 | 1   | Button-ripple       | **[Live Demo](https://davit2605.github.io/Button-ripple/)**     |
