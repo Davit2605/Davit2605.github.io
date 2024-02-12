@@ -7,11 +7,12 @@ More advanced projects coming... ⬇️
 | 1   | Button-ripple       | **[Live Demo](https://davit2605.github.io/Button-ripple/)**     |
 | 2   | Background-slider   | **[Live Demo](https://davit2605.github.io/Background-slider/)** |
 | 3   | Expanding-cards     | **[Live Demo](https://davit2605.github.io/Expanding-cards/)**   |
-|4|Age-calculator|**[Live Demo](https://davit2605.github.io/Age-calculator/)**|
-|5|Loading-bar|**[Live Demo](https://davit2605.github.io/Loading-bar/)**|
+|4    |Age-calculator|**[Live Demo](https://davit2605.github.io/Age-calculator/)**|
+|5    |Loading-bar|**[Live Demo](https://davit2605.github.io/Loading-bar/)**|
 | 6   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
 | 7   | Event-keycodes     | **[Live Demo](https://davit2605.github.io/Event-keycodes/)**   |
 | 8   | Incrementing-counter     | **[Live Demo](https://davit2605.github.io/Incrementing-counter/)**   |
 | 9   | Stopwatch     | **[Live Demo](https://davit2605.github.io/Stopwatch/)**   |
 | 10   | Mouse-events     | **[Live Demo](https://davit2605.github.io/Mouse-events/)**   |
 | 11   | Loan-calculator     | **[Live Demo](https://davit2605.github.io/Loan-calculator/)**   |
+| 12   | Currency-converter     | **[Live Demo](https://davit2605.github.io/Currency-converter/)**   |
