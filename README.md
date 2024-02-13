@@ -15,4 +15,5 @@ More advanced projects coming... ⬇️
 | 9   | Mouse-events     | **[Live Demo](https://davit2605.github.io/Mouse-events/)**   |
 | 10   | Loan-calculator     | **[Live Demo](https://davit2605.github.io/Loan-calculator/)**   |
 | 11   | Currency-converter     | **[Live Demo](https://davit2605.github.io/Currency-converter/)**   |
-| 12   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
+| 12   | BMI-calculator     | **[Live Demo](https://davit2605.github.io/BMI-calculator/)**   |
+| 13   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
