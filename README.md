@@ -17,4 +17,5 @@ More advanced projects coming... ⬇️
 | 11   | Currency-converter     | **[Live Demo](https://davit2605.github.io/Currency-converter/)**   |
 | 12   | BMI-calculator     | **[Live Demo](https://davit2605.github.io/BMI-calculator/)**   |
 | 13   | Digital-clock     | **[Live Demo](https://davit2605.github.io/Digital-clock/)**   |
-| 14   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
+| 14   | Digital-clock     | **[Live Demo](https://davit2605.github.io/Basic-calculator/)**   |
+| 15   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
