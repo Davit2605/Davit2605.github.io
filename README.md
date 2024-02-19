@@ -19,4 +19,5 @@ More advanced projects coming... ⬇️
 | 13   | Character-counter     | **[Live Demo](https://davit2605.github.io/Character-counter/)**   |
 | 14   | Digital-clock     | **[Live Demo](https://davit2605.github.io/Digital-clock/)**   |
 | 15   | Basic-calculator     | **[Live Demo](https://davit2605.github.io/Basic-calculator/)**   |
-| 16   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
+| 16   | Random-colors     | **[Live Demo](https://davit2605.github.io/Random-colors/)**   |
+| 17   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
