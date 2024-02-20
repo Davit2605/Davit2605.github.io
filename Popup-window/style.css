@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    overflow: hidden;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+    background: url("https://images.unsplash.com/photo-1598624211345-d321dda059b2?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+  }
+  h1 {
+    color: white;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    letter-spacing: 3px;
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+  }
+  .btn {
+    font-size: 25px;
+    padding: 10px 20px;
+    box-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    width: 300px;
+  }
+  .btn:hover {
+    filter: brightness(0.8);
+    transition: filter 0.3s;
+  }
+  .active.container {
+    filter: blur(2px) brightness(0.8);
+  }
+  .popup-container {
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: url("https://plus.unsplash.com/premium_photo-1675206660437-1955986bbba9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    border-radius: 8px;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    transition: all 0.7s;
+    opacity: 1;
+  }
+  label {
+    color: white;
+    font-family: sans-serif;
+    margin-bottom: 8px;
+  }
+  h3 {
+    color: lightgreen;
+    font-size: 25px;
+    margin: 10px 0px;
+  }
+  .close-icon {
+    position: absolute;
+    color: greenyellow;
+    right: 15px;
+    cursor: pointer;
+  }
+  .input {
+    text-align: center;
+    font-size: 16px;
+    padding: 10px;
+    outline: none;
+  }
+  .popup-btn {
+    background-color: orangered;
+    margin: 15px 0;
+    font-size: 18px;
+    padding: 10px;
+    border: solid 2px gray;
+    cursor: pointer;
+    font-weight: 600;
+  }
+  .popup-btn:hover {
+    filter: brightness(0.8);
+    transition: filter 0.3s;
+  }
+  .popup-btn:active {
+    transform: scale(0.97);
+  }
+  .active.popup-container {
+    visibility: hidden;
+    opacity: 0;
+    top: 10%;
+  }
