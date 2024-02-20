@@ -20,4 +20,5 @@ More advanced projects coming... ⬇️
 | 14   | Digital-clock     | **[Live Demo](https://davit2605.github.io/Digital-clock/)**   |
 | 15   | Basic-calculator     | **[Live Demo](https://davit2605.github.io/Basic-calculator/)**   |
 | 16   | Random-colors     | **[Live Demo](https://davit2605.github.io/Random-colors/)**   |
-| 17   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
+| 17   | Popup-window     | **[Live Demo](https://davit2605.github.io/Popup-window/)**   |
+| 18   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
