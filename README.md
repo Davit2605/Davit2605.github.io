@@ -21,4 +21,5 @@ More advanced projects coming... ⬇️
 | 15   | Basic-calculator     | **[Live Demo](https://davit2605.github.io/Basic-calculator/)**   |
 | 16   | Random-colors     | **[Live Demo](https://davit2605.github.io/Random-colors/)**   |
 | 17   | Popup-window     | **[Live Demo](https://davit2605.github.io/Popup-window/)**   |
-| 18   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
+| 18   | Toggle-button     | **[Live Demo](https://davit2605.github.io/Toggle-button/)**   |
+| 19   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
