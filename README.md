@@ -22,4 +22,5 @@ More advanced projects coming... ⬇️
 | 16   | Random-colors     | **[Live Demo](https://davit2605.github.io/Random-colors/)**   |
 | 17   | Popup-window     | **[Live Demo](https://davit2605.github.io/Popup-window/)**   |
 | 18   | Toggle-button     | **[Live Demo](https://davit2605.github.io/Toggle-button/)**   |
-| 19   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
+| 19   | Random-quotes    | **[Live Demo](https://davit2605.github.io/Random-quotes/)**   |
+| 20   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
