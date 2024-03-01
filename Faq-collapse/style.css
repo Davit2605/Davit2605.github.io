@@ -27,6 +27,7 @@
     position: relative;
     transition: 0.3s ease;
     z-index: 1;
+    pointer-events: none;
   }
 
   .question-container:focus {
@@ -42,6 +43,7 @@
     font-size: 1rem;
     border: none;
     cursor: pointer;
+    pointer-events: fill;
   }
 
   .question-container .fa-xmark,
