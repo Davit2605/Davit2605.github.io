@@ -20,7 +20,7 @@ More advanced projects in progress... ⬇️
 | 14   | Digital-clock     | **[Live Demo](https://davit2605.github.io/Digital-clock/)**   |
 | 15   | Basic-calculator     | **[Live Demo](https://davit2605.github.io/Basic-calculator/)**   |
 | 16   | Random-colors     | **[Live Demo](https://davit2605.github.io/Random-colors/)**   |
-| 17   | Question-answer     | **[Live Demo](https://davit2605.github.io/Question-answer/)**   |
+| 17   | Faq-collapse  | **[Live Demo](https://davit2605.github.io/Faq-collapse/)**   |
 | 18   | Popup-window     | **[Live Demo](https://davit2605.github.io/Popup-window/)**   |
 | 19   | Image-slider     | **[Live Demo](https://davit2605.github.io/Image-slider/)**   |
 | 20   | Toggle-button     | **[Live Demo](https://davit2605.github.io/Toggle-button/)**   |
