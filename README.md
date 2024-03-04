@@ -25,4 +25,5 @@ More advanced projects in progress... ⬇️
 | 19   | Image-slider     | **[Live Demo](https://davit2605.github.io/Image-slider/)**   |
 | 20   | Toggle-button     | **[Live Demo](https://davit2605.github.io/Toggle-button/)**   |
 | 21   | Random-quotes    | **[Live Demo](https://davit2605.github.io/Random-quotes/)**   |
-| 22   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
+| 22   | Testimonial-slider  | **[Live Demo](https://davit2605.github.io/Testimonial-slider/)**   |
+| 23   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
