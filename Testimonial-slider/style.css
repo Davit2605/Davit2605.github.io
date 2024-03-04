@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background: linear-gradient(#a28089, #ffa8b6, #acb7ae);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  .container {
+    margin: 5px;
+    width: 500px;
+    height: 100px;
+    background-color: slateblue;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+    min-width: 400px;
+    padding: 70px 20px;
+    position: relative;
+    color: white;
+    font-weight: 600;
+  }
+
+  img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -60px;
+    border-radius: 50%;
+  }
+
+  .author {
+    font-weight: 200;
+    font-size: 14px;
+  }
