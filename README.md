@@ -26,4 +26,5 @@ More advanced projects in progress... ⬇️
 | 20   | Toggle-button     | **[Live Demo](https://davit2605.github.io/Toggle-button/)**   |
 | 21   | Random-quotes    | **[Live Demo](https://davit2605.github.io/Random-quotes/)**   |
 | 22   | Testimonial-slider  | **[Live Demo](https://davit2605.github.io/Testimonial-slider/)**   |
-| 23   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
+| 23   | Random-emoji  | **[Live Demo](https://davit2605.github.io/Random-emoji/)**   |
+| 24   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
