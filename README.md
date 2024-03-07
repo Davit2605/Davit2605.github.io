@@ -28,3 +28,6 @@ More advanced projects in progress... ⬇️
 | 22   | Testimonial-slider  | **[Live Demo](https://davit2605.github.io/Testimonial-slider/)**   |
 | 23   | Random-emoji  | **[Live Demo](https://davit2605.github.io/Random-emoji/)**   |
 | 24   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
+| 25   | English-dictionary     | **[Live Demo](https://davit2605.github.io/English-dictionary/)**   |
+
+
