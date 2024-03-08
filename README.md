@@ -29,5 +29,6 @@ More advanced projects in progress... ⬇️
 | 23   | Random-emoji  | **[Live Demo](https://davit2605.github.io/Random-emoji/)**   |
 | 24   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
 | 25   | English-dictionary     | **[Live Demo](https://davit2605.github.io/English-dictionary/)**   |
+| 26   | Tip-calculator  | **[Live Demo](https://davit2605.github.io/Tip-calculator/)**   |
 
 
