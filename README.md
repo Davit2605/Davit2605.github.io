@@ -30,5 +30,6 @@ More advanced projects in progress... ⬇️
 | 24   | Drag-drop     | **[Live Demo](https://davit2605.github.io/Drag-drop/)**   |
 | 25   | English-dictionary     | **[Live Demo](https://davit2605.github.io/English-dictionary/)**   |
 | 26   | Tip-calculator  | **[Live Demo](https://davit2605.github.io/Tip-calculator/)**   |
+| 27   | Text-animation  | **[Live Demo](https://davit2605.github.io/Text-animation/)**   |
 
 
