@@ -32,5 +32,6 @@ More advanced projects in progress... ⬇️
 | 26   | Tip-calculator  | **[Live Demo](https://davit2605.github.io/Tip-calculator/)**   |
 | 27   | Text-animation  | **[Live Demo](https://davit2605.github.io/Text-animation/)**   |
 | 28   | Photo-gallery  | **[Live Demo](https://davit2605.github.io/Photo-gallery/)**   |
+| 29   | Multiplication-app  | **[Live Demo](https://davit2605.github.io/Multiplication-app/)**   |
 
 
