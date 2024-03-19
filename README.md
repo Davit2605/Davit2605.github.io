@@ -33,5 +33,6 @@ More advanced projects in progress... ⬇️
 | 27   | Text-animation  | **[Live Demo](https://davit2605.github.io/Text-animation/)**   |
 | 28   | Photo-gallery  | **[Live Demo](https://davit2605.github.io/Photo-gallery/)**   |
 | 29   | Multiplication-app  | **[Live Demo](https://davit2605.github.io/Multiplication-app/)**   |
+| 30   | Image-search  | **[Live Demo](https://davit2605.github.io/Image-search/)**   |
 
 
