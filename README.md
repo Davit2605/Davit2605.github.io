@@ -1,6 +1,6 @@
 # Davit2605.github.io
 
-More advanced projects in progress... ⬇️ 
+More projects in progress... ⬇️ 
 
 | 🖥️ | Javascript Projects | Live Demo                                                       |
 |:---:|---------------------|:---------------------------------------------------------------:|
