@@ -37,5 +37,6 @@ More projects in progress... ⬇️
 | 31   | Mobile-tab-nav  | **[Live Demo](https://davit2605.github.io/Mobile-tab-nav/)**   |
 | 32   | Random-photos  | **[Live Demo](https://davit2605.github.io/Random-photos/)**   |
 | 33   | Social-media  | **[Live Demo](https://davit2605.github.io/Social-media/)**   |
+| 34   | Password-generator  | **[Live Demo](https://davit2605.github.io/Password-generator/)**   |
 
 
