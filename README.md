@@ -38,5 +38,6 @@ More projects in progress... ⬇️
 | 32   | Random-photos  | **[Live Demo](https://davit2605.github.io/Random-photos/)**   |
 | 33   | Social-media  | **[Live Demo](https://davit2605.github.io/Social-media/)**   |
 | 34   | Password-generator  | **[Live Demo](https://davit2605.github.io/Password-generator/)**   |
+| 35   | Random-pictures  | **[Live Demo](https://davit2605.github.io/Random-pictures/)**   |
 
 
