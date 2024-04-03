@@ -42,5 +42,6 @@ More projects in progress... ⬇️
 | 36   | Profile-stats  | **[Live Demo](https://davit2605.github.io/Profile-stats/)**   |
 | 37   | Background-video  | **[Live Demo](https://davit2605.github.io/Background-video/)**   |
 | 38   | Feedback-UI  | **[Live Demo](https://davit2605.github.io/Feedback-UI/)**   |
+| 39   | Image-scroll  | **[Live Demo](https://davit2605.github.io/Image-scroll/)**   |
 
 
