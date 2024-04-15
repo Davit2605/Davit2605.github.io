@@ -45,5 +45,6 @@ More projects in progress... ⬇️
 | 39   | Image-scroll  | **[Live Demo](https://davit2605.github.io/Image-scroll/)**   |
 | 40   | Video-trailer  | **[Live Demo](https://davit2605.github.io/Video-trailer/)**   |
 | 41   | Clock-project  | **[Live Demo](https://davit2605.github.io/Clock-project/)**   |
+| 42   | Scroll-animation  | **[Live Demo](https://davit2605.github.io/Scroll-animation/)**   |
 
 
