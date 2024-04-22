@@ -47,5 +47,6 @@ More projects in progress... ⬇️
 | 41   | Clock-project  | **[Live Demo](https://davit2605.github.io/Clock-project/)**   |
 | 42   | Scroll-animation  | **[Live Demo](https://davit2605.github.io/Scroll-animation/)**   |
 | 43   | Triangle-animation  | **[Live Demo](https://davit2605.github.io/Triangle-animation/)**   |
+| 44   | Sticky-nav  | **[Live Demo](https://davit2605.github.io/Sticky-nav/)**   |
 
 
