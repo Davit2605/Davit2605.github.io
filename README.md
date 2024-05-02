@@ -50,5 +50,6 @@ More projects in progress... ⬇️
 | 44   | Sticky-nav  | **[Live Demo](https://davit2605.github.io/Sticky-nav/)**   |
 | 45  | Testimonial-boxes  | **[Live Demo](https://davit2605.github.io/Testimonial-boxes/)**   |
 | 46  | Verify-account  | **[Live Demo](https://davit2605.github.io/Verify-account/)**   |
+| 47  | Check-boxes  | **[Live Demo](https://davit2605.github.io/Check-boxes/)**   |
 
 
