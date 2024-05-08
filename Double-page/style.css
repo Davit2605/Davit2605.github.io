@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  color: aliceblue;
+  background-color: rgba(0, 0, 0, 0.3);
+  letter-spacing: 4px;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  padding: 20px 40px;
+  font-size: 25px;
+  border: 4px solid;
+  cursor: pointer;
+  transition: 1s background-color;
+  white-space: nowrap;
+}
+
+.btn:hover {
+  background-color: white;
+  color: black;
+}
+
+.split {
+  width: 50%;
+  height: 100%;
+  top: 0;
+  overflow: hidden;
+}
+
+.split.left {
+  position: absolute;
+  left: 0;
+  background-color: pink;
+  background-image: url("https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1631220221000");
+  background-size: cover;
+}
+
+.split.right {
+  position: absolute;
+  right: 0;
+  background-color: lightblue;
+  background-image: url("https://images.samsung.com/is/image/samsung/p6pim/ie/sm-a546blgceub/gallery/ie-galaxy-a54-5g-sm-a546-sm-a546blgceub-535797479?$730_584_PNG$");
+  background-size: cover;
+}
+
+.active .left {
+  width: 75%;
+}
+
+.active .right {
+  width: 25%;
+}
+
+.active-2 .left {
+  width: 25%;
+}
+
+.active-2 .right {
+  width: 75%;
+}
+
+.left,
+.right {
+  transition: width 2s ease-in-out;
+}
