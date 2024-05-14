@@ -3,7 +3,7 @@ export const data = [
     id: "1",
     url: "https://davit2605.github.io/Event-keycodes/",
     description: "Key-codes",
-    img: "./images/key-codes.png",
+    img: "images/key-codes.png",
   },
   {
     id: "2",
