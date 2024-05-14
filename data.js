@@ -32,9 +32,9 @@ export const data = [
   },
   {
     id: "6",
-    url: "Blurry-Loading/index.html",
-    description: "Blurry Loading",
-    img: "./images/blur.png",
+    url: "https://davit2605.github.io/Incrementing-counter/",
+    description: "Incrementing-counter",
+    img: "./images/incrementing-counter.png",
   },
   {
     id: "7",
