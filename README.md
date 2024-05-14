@@ -52,5 +52,6 @@ More projects in progress... ⬇️
 | 46  | Verify-account  | **[Live Demo](https://davit2605.github.io/Verify-account/)**   |
 | 47  | Check-boxes  | **[Live Demo](https://davit2605.github.io/Check-boxes/)**   |
 | 48  | Double-page  | **[Live Demo](https://davit2605.github.io/Double-page/)**   |
+| 49  | Todo-list  | **[Live Demo](https://davit2605.github.io/Todo-list/)**   |
 
 
