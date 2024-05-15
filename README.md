@@ -4,7 +4,6 @@ More projects in progress... ⬇️
 
 | 🖥️ | Javascript Projects | Live Demo                                                       |
 |:---:|---------------------|:---------------------------------------------------------------:|
-
 | 3   | Expanding-cards     | **[Live Demo](https://davit2605.github.io/Expanding-cards/)**   |
 | 5   |Loading-bar|**[Live Demo](https://davit2605.github.io/Loading-bar/)**|
 | 6   | Incrementing-counter     | **[Live Demo](https://davit2605.github.io/Incrementing-counter/)**   |
