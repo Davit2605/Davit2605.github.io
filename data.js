@@ -2,7 +2,7 @@ export const data = [
   {
     id: "1",
     // url: "https://davit2605.github.io/Event-keycodes/",
-    url: "Event-keycodes/index.html",
+    url: "Check-boxes/index.html",
     description: "Key-codes",
     img: "./images/key-codes.png",
   },
