@@ -14,7 +14,6 @@ More projects in progress... ⬇️
 | 27   | Text-animation  | **[Live Demo](https://davit2605.github.io/Text-animation/)**   |
 | 28   | Photo-gallery  | **[Live Demo](https://davit2605.github.io/Photo-gallery/)**   |
 | 30   | Image-search  | **[Live Demo](https://davit2605.github.io/Image-search/)**   |
-| 34   | Password-generator  | **[Live Demo](https://davit2605.github.io/Password-generator/)**   |
 | 38   | Feedback-UI  | **[Live Demo](https://davit2605.github.io/Feedback-UI/)**   |
 | 39   | Image-scroll  | **[Live Demo](https://davit2605.github.io/Image-scroll/)**   |
 | 40   | Video-trailer  | **[Live Demo](https://davit2605.github.io/Video-trailer/)**   |
