@@ -4,8 +4,8 @@ More projects in progress... ⬇️
 
 | 🖥️ | Javascript Projects | Live Demo                                                       |
 |:---:|---------------------|:---------------------------------------------------------------:|
-| 3   | Expanding-cards     | **[Live Demo](https://davit2605.github.io/Expanding-cards/)**   |
-| 7   | Stopwatch     | **[Live Demo](https://davit2605.github.io/Stopwatch/)**   |
+
+
 | 12   | Digital-clock     | **[Live Demo](https://davit2605.github.io/Digital-clock/)**   |
 | 13   | Background-slider   | **[Live Demo](https://davit2605.github.io/Background-slider/)** |
 | 15   | Basic-calculator     | **[Live Demo](https://davit2605.github.io/Basic-calculator/)**   |
