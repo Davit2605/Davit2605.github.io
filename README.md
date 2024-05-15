@@ -4,7 +4,6 @@ More projects in progress... ⬇️
 
 | 🖥️ | Javascript Projects | Live Demo                                                       |
 |:---:|---------------------|:---------------------------------------------------------------:|
-| 12   | Digital-clock     | **[Live Demo](https://davit2605.github.io/Digital-clock/)**   |
 | 13   | Background-slider   | **[Live Demo](https://davit2605.github.io/Background-slider/)** |
 | 15   | Basic-calculator     | **[Live Demo](https://davit2605.github.io/Basic-calculator/)**   |
 | 16   | Random-colors     | **[Live Demo](https://davit2605.github.io/Random-colors/)**   |
