@@ -19,7 +19,6 @@ More projects in progress... ⬇️
 | 29   | Multiplication-app  | **[Live Demo](https://davit2605.github.io/Multiplication-app/)**   |
 | 30   | Image-search  | **[Live Demo](https://davit2605.github.io/Image-search/)**   |
 | 34   | Password-generator  | **[Live Demo](https://davit2605.github.io/Password-generator/)**   |
-| 37   | Background-video  | **[Live Demo](https://davit2605.github.io/Background-video/)**   |
 | 38   | Feedback-UI  | **[Live Demo](https://davit2605.github.io/Feedback-UI/)**   |
 | 39   | Image-scroll  | **[Live Demo](https://davit2605.github.io/Image-scroll/)**   |
 | 40   | Video-trailer  | **[Live Demo](https://davit2605.github.io/Video-trailer/)**   |
