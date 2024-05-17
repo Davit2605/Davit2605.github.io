@@ -1,10 +1,12 @@
 export const data = [
-  {
+
+    {
     id: "1",
-    url: "3D-boxes/index.html",
-    description: "3D-boxes",
-    img: "./images/3D-boxes.png",
+    url: "Rotating-nav/index.html",
+    description: "Rotating-nav",
+    img: "./images/Rotating-nav.png",
   },
+ 
   {
     id: "2",
     url: "Animated-countdown/index.html",
@@ -31,11 +33,11 @@ export const data = [
     img: "./images/Vertical-slider.png",
   },
 
-  {
+ {
     id: "6",
-    url: "Rotating-nav/index.html",
-    description: "Rotating-nav",
-    img: "./images/Rotating-nav.png",
+    url: "3D-boxes/index.html",
+    description: "3D-boxes",
+    img: "./images/3D-boxes.png",
   },
 
   {
@@ -44,6 +46,7 @@ export const data = [
     description: "Clock-project",
     img: "./images/Clock-project.png",
   },
+  
   {
     id: "8",
     url: "Double-heart-click/index.html",
